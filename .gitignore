@@ -1,0 +1,20 @@
+# Umgebungsvariablen
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node.js
+node_modules/
+
+# Build-Ordner
+build/
+dist/
+
+# Logs
+*.log
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
